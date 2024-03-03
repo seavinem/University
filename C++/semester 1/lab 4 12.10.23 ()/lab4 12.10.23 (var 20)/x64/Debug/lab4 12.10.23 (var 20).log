@@ -1,0 +1,5 @@
+﻿  Kozlov.cpp
+D:\projects\projects BSU\lab 4 12.10.23 ()\lab4 12.10.23 (var 20)\Kozlov.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\projects\projects BSU\lab 4 12.10.23 ()\lab4 12.10.23 (var 20)\Kozlov.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\projects\projects BSU\lab 4 12.10.23 ()\lab4 12.10.23 (var 20)\Kozlov.cpp(107,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4 12.10.23 (var 20).vcxproj -> D:\projects\projects BSU\lab 4 12.10.23 ()\x64\Debug\lab4 12.10.23 ().exe

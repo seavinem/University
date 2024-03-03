@@ -1,0 +1,37 @@
+﻿  practice 29.02.24.cpp
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(8,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(9,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(9,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(9,15): error C2065: eax: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(10,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(10,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(10,15): error C2065: ecx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(11,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(11,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(11,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(11,15): error C2065: ebx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(12,5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "L"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(12,9): error C2065: add: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(12,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(12,15): error C2065: eax: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(12,22): error C2065: ebx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,9): error C2065: add: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,15): error C2065: ebx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,20): error C2065: type: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(13,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(14,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(14,9): warning C4551: в вызове функции отсутствует список аргументов
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(14,15): error C2065: ecx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(15,9): error C2065: cmp: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(15,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(15,15): error C2065: ecx: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jne"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(16,9): error C2065: jne: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(16,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "L"
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(16,15): error C2065: L: необъявленный идентификатор
+D:\projects\projects university\projects BSU\Assembler\practice 29.02.24\practice 29.02.24\practice 29.02.24.cpp(17,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

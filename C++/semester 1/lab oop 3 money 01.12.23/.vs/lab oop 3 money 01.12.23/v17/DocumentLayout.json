@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|solutionrelative:lab oop 3 money 01.12.23\\money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|solutionrelative:lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC13B306-27E6-4AAC-8419-40A62FFDC33F}|lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.vcxproj|solutionrelative:lab oop 3 money 01.12.23\\money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "money.h",
+              "DocumentMoniker": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.h",
+              "RelativeDocumentMoniker": "lab oop 3 money 01.12.23\\money.h",
+              "ToolTip": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.h",
+              "RelativeToolTip": "lab oop 3 money 01.12.23\\money.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-24T07:53:37.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "money.cpp",
+              "DocumentMoniker": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.cpp",
+              "RelativeDocumentMoniker": "lab oop 3 money 01.12.23\\money.cpp",
+              "ToolTip": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\money.cpp",
+              "RelativeToolTip": "lab oop 3 money 01.12.23\\money.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T07:53:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab oop 3 money 01.12.23.cpp",
+              "DocumentMoniker": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp",
+              "RelativeDocumentMoniker": "lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp",
+              "ToolTip": "D:\\projects\\projects university\\projects BSU\\C\u002B\u002B\\semester 1\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp",
+              "RelativeToolTip": "lab oop 3 money 01.12.23\\lab oop 3 money 01.12.23.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T07:53:37.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

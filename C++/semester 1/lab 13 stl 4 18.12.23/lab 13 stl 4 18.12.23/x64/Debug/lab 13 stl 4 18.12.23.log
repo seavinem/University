@@ -1,0 +1,5 @@
+﻿  lab 13 stl 4 18.12.23.cpp
+D:\projects\projects BSU\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23.cpp(226,40): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23.cpp(229,53): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23\lab 13 stl 4 18.12.23.cpp(238,44): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 13 stl 4 18.12.23.vcxproj -> D:\projects\projects BSU\lab 13 stl 4 18.12.23\x64\Debug\lab 13 stl 4 18.12.23.exe

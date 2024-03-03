@@ -1,0 +1,5 @@
+﻿D:\Microsoft Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (practice 19.10.23.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Kozlov_5_2_A.cpp
+D:\projects\projects BSU\practice 19.10.23 A\practice 19.10.23\Kozlov_5_2_A.cpp(33,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\practice 19.10.23 A\practice 19.10.23\Kozlov_5_2_A.cpp(33,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  practice 19.10.23.vcxproj -> D:\projects\projects BSU\practice 19.10.23 A\x64\Debug\practice 19.10.23 A.exe

@@ -1,0 +1,4 @@
+﻿  Character.cpp
+D:\projects\projects university\projects BSU\C++\semester 2\practice KP0 29.02.24\practice KP0 29.02.24\Character.cpp(32,1): warning C4715: Character::getState: значение возвращается не при всех путях выполнения
+D:\projects\projects university\projects BSU\C++\semester 2\practice KP0 29.02.24\practice KP0 29.02.24\Character.cpp(46,1): warning C4715: Character::getRace: значение возвращается не при всех путях выполнения
+  practice KP0 29.02.24.vcxproj -> D:\projects\projects university\projects BSU\C++\semester 2\practice KP0 29.02.24\x64\Debug\practice KP0 29.02.24.exe

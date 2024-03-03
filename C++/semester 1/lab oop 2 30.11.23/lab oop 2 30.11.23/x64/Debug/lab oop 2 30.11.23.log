@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+D:\projects\projects BSU\lab oop 2 30.11.23\lab oop 2 30.11.23\Matrix.cpp(254): warning C4715: matrix::operator!=: значение возвращается не при всех путях выполнения
+D:\projects\projects BSU\lab oop 2 30.11.23\lab oop 2 30.11.23\Matrix.cpp(235): warning C4715: matrix::operator==: значение возвращается не при всех путях выполнения
+  lab oop 2 30.11.23.vcxproj -> D:\projects\projects BSU\lab oop 2 30.11.23\x64\Debug\lab oop 2 30.11.23.exe

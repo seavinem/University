@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\projects university\\projects BSU\\Assembler\\practise 22.02.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8213A-1892-492A-973E-530475B4F380}|practise 22.02.24\\practise 22.02.24.vcxproj|D:\\projects\\projects university\\projects BSU\\Assembler\\practise 22.02.24\\practise 22.02.24\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC8213A-1892-492A-973E-530475B4F380}|practise 22.02.24\\practise 22.02.24.vcxproj|solutionrelative:practise 22.02.24\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.cpp",
+              "DocumentMoniker": "D:\\projects\\projects university\\projects BSU\\Assembler\\practise 22.02.24\\practise 22.02.24\\practice.cpp",
+              "RelativeDocumentMoniker": "practise 22.02.24\\practice.cpp",
+              "ToolTip": "D:\\projects\\projects university\\projects BSU\\Assembler\\practise 22.02.24\\practise 22.02.24\\practice.cpp",
+              "RelativeToolTip": "practise 22.02.24\\practice.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T21:01:37.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

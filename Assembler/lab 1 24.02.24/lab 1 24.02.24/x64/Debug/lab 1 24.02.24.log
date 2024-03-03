@@ -1,0 +1,10 @@
+﻿  lab 1 24.02.24.cpp
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(7,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(8,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(8,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(8,13): error C2065: eax: необъявленный идентификатор
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "idiv"
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(10,9): error C2065: idiv: необъявленный идентификатор
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(10,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(10,14): error C2065: eax: необъявленный идентификатор
+D:\projects\projects\projects BSU\Assembler\lab 1 24.02.24\lab 1 24.02.24\lab 1 24.02.24.cpp(11,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

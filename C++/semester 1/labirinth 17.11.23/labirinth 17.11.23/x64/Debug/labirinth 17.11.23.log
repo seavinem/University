@@ -1,0 +1,3 @@
+﻿D:\Microsoft Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (labirinth 17.11.23.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Kozlov_lab.cpp
+  labirinth 17.11.23.vcxproj -> D:\projects\projects BSU\labirinth 17.11.23\x64\Debug\labyrinth 17.11.23.exe

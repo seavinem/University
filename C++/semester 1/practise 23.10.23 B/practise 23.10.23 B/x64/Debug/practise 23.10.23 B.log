@@ -1,0 +1,6 @@
+﻿  Kozlov.cpp
+D:\projects\projects BSU\practise 23.10.23 B\practise 23.10.23 B\Kozlov.cpp(35,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\practise 23.10.23 B\practise 23.10.23 B\Kozlov.cpp(35,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\practise 23.10.23 B\practise 23.10.23 B\Kozlov.cpp(72,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects BSU\practise 23.10.23 B\practise 23.10.23 B\Kozlov.cpp(74,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  practise 23.10.23 B.vcxproj -> D:\projects\projects BSU\practise 23.10.23 B\x64\Debug\practise 23.10.23 B.exe

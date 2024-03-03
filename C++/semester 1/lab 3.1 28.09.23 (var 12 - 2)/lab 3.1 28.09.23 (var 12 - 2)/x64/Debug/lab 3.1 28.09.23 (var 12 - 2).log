@@ -1,0 +1,8 @@
+﻿  Kozlov_12.cpp
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(46,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(199,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(259,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(273,62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(275,58): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\lab 3.1 28.09.23 (var 12 - 2)\Kozlov_12.cpp(277,62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  lab 3.1 28.09.23 (var 12 - 2).vcxproj -> D:\projects\projects BSU\lab 3.1 28.09.23 (var 12 - 2)\x64\Debug\lab 3.1 28.09.23 (var 12 - 2).exe

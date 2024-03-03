@@ -1,0 +1,6 @@
+﻿  Kozlov_20.cpp
+D:\projects\projects BSU\Project1\Project1\Kozlov_20.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\projects\projects BSU\Project1\Project1\Kozlov_20.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\projects\projects BSU\Project1\Project1\Kozlov_20.cpp(44,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\projects\projects BSU\Project1\Project1\Kozlov_20.cpp(117,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\projects\projects BSU\Project1\x64\Debug\Project1.exe

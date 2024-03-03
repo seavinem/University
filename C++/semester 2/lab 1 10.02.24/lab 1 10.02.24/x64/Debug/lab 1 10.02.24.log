@@ -1,0 +1,48 @@
+﻿  Alcohol.cpp
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(54,36): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "Alcohol.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(62,59): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "Alcohol.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.cpp(7,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Drinks.cpp
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(54,36): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(62,59): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(11,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(25,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(39,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(56,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Drinks.cpp")
+  
+  lab 1 10.02.24.cpp
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(54,36): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Alcohol.h(62,59): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(11,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(25,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(39,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\lab 1 10.02.24\Drinks.h(56,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%201%2010.02.24.cpp")
+  
+  Создание кода...
+  lab 1 10.02.24.vcxproj -> D:\projects\projects\projects BSU\C++\semester 2\lab 1 10.02.24\x64\Debug\lab 1 10.02.24.exe
