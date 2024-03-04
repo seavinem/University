@@ -27,15 +27,17 @@ public:
 	Character() :
 		ID(nextID++), name(""), state(State::NORMAL), race(Race::HUMAN), moveAbility(false) { ammount++; }
 
-	Character(Race race, string name, State state= State::NORMAL, bool moveAbility = true) :
-		ID(nextID++), name(name), state(state), race(race), moveAbility(moveAbility) { ammount++; }
+	Character(Race race, string name, State state = State::NORMAL, bool moveAbility = true);
 
-	~Character() {
+	virtual ~Character() {
 		ammount--;
 	};
 
 	Character(const Character& other);
+	Character(Character&& other) noexcept;
 	Character& operator=(const Character& other);
+	Character& operator=(Character&& other) noexcept;
+
 	bool operator<(const Character& other) const;
 
 	int getID() const { return ID; }
@@ -52,7 +54,7 @@ public:
 	friend ostream& operator << (ostream& os, const Character& character);
 };
 
-class Wirard : public Character {
+class Wizard : public Character {
 
 	unsigned int manaTotal;
 	unsigned int manaCurrent;
@@ -60,11 +62,14 @@ class Wirard : public Character {
 	vector<Artifact> artifacts;
 
 public:
-	Wirard() : Character(), manaTotal(0), manaCurrent(0), artifacts(vector<Artifact>()), artifactAmmount(artifacts.size()) {};
+	Wizard() : Character(), manaTotal(0), manaCurrent(0), artifacts(vector<Artifact>()), artifactAmmount(0) {};
 
-	Wirard(Race race, string name, int manaCurrent, int manaTotal = 0, int atrifactsAmmount = 0);
+	Wizard(Race race, string name, int manaCurrent, int manaTotal = 0, int atrifactsAmmount = 0, vector<Artifact> artifacts = vector<Artifact>(), State state = State::NORMAL, bool moveAbility = true);
 		
-		
+	Wizard(const Wizard& other);
+	Wizard(Wizard&& other) noexcept;
+
+
 
 	int getManaTotal() const { return manaTotal; };
 	int getManaCurrent() const { return manaCurrent; };
@@ -74,11 +79,16 @@ public:
 
 	void setManaTotal(const int& manaTotal) { this->manaTotal = manaTotal; };
 	void setManaCurrent(const int& manaCurrent) { this->manaCurrent = manaCurrent; };
-	void addArtifact(const Artifact& artifact) { this->artifacts.push_back(artifact); };
+	void setArtifact(const vector<Artifact>& artifacts) { this->artifacts = artifacts; };
+	void addArtifact(const Artifact& artifact) { 
+		this->artifacts.push_back(artifact);
+		this->artifactAmmount++;
+	};
 
-	Wirard& operator=(const Wirard& other);
+	Wizard& operator=(const Wizard& other);
+	Wizard operator=(Wizard&& other) noexcept;
 
-	friend ostream& operator<<(ostream& os, const Wirard& wizard);
+	friend ostream& operator<<(ostream& os, const Wizard& wizard);
 
 };
 
