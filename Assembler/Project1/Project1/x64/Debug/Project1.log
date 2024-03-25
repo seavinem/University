@@ -1,0 +1,14 @@
+﻿  Assembling proc.asm...
+proc.asm(1): error A2008: syntax error : .
+proc.asm(9): error A2008: syntax error : .
+proc.asm(14): error A2070: invalid instruction operands
+proc.asm(42): error A2070: invalid instruction operands
+proc.asm(48): error A2070: invalid instruction operands
+proc.asm(75): error A2070: invalid instruction operands
+proc.asm(145): error A2070: invalid instruction operands
+proc.asm(162): error A2070: invalid instruction operands
+proc.asm(168): error A2070: invalid instruction operands
+proc.asm(7): error A2006: undefined symbol : @procedure5@8
+proc.asm(107): warning A6004: procedure argument or local not referenced : stdcall
+proc.asm(135): warning A6004: procedure argument or local not referenced : c
+D:\utilities\Visual Studio\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\proc.obj" /W3 /errorReport:prompt  /Taproc.asm" с кодом "1".

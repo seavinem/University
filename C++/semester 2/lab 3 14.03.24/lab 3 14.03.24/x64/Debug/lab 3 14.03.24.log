@@ -1,0 +1,10 @@
+﻿  Alcohol.cpp
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 3 14.03.24\lab 3 14.03.24\Alcohol.h(203,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Alcohol.cpp")
+  
+  lab 3 14.03.24.cpp
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 3 14.03.24\lab 3 14.03.24\Alcohol.h(203,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab%203%2014.03.24.cpp")
+  
+  Создание кода...
+  lab 3 14.03.24.vcxproj -> D:\projects\projects_university\projects_BSU\C++\semester 2\lab 3 14.03.24\x64\Debug\lab 3 14.03.24.exe

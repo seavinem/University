@@ -1,10 +1,38 @@
 ﻿#include "Drinks.h"
+#include <vector>
 
 int main() {
 	setlocale(LC_ALL, "ru");
+	
+	
+	vector<Alcohol*> drinks;
+	
+	CognacFactory* cognacFactory = new CognacFactory;
+	VodkaFactory* vodkaFactory = new VodkaFactory;
 
+	drinks.push_back(cognacFactory->createDrink());
+	drinks.push_back(vodkaFactory->createDrink());
+	drinks.push_back(Alcohol::createDrink(Alcohol_ID::Wine_ID));
+	drinks.push_back(Alcohol::createDrink(Alcohol_ID::Beer_ID));
+
+	for (const auto& i : drinks) {
+		i->setVolume(2);
+		i->setPrice(1000);
+	}
+
+	for (const auto& i : drinks) {
+		cout << *i << endl;
+		cout << endl;
+	}
+
+
+
+
+
+
+	
+	/*
 	try {
-
 		cout << "ЧАСТЬ 1" << endl << endl;
 
 
@@ -14,7 +42,7 @@ int main() {
 		Cognac cognac(0.5, 3100, "Hennessy", "Франция", 6);
 		Vodka vodka(0.7, 4428, "Neft", "Австрия", 5);
 		Wine wine("Белое сухое", 1, 556, "Gallo", "Франция", 10);
-		Сhampagne champagne(0.75, 14839, "Dom Perignon", "Франция", 8);
+		Champagne champagne(0.75, 14839, "Dom Perignon", "Франция", 8);
 	
 
 
@@ -34,7 +62,7 @@ int main() {
 		Cognac cognac2 = cognac;
 		Vodka vodka2 = vodka;
 		Wine wine2 = wine;
-		Сhampagne champagne2 = champagne;
+		Champagne champagne2 = champagne;
 
 		cout << beer2 << endl << endl
 			 << cognac2 << endl << endl
@@ -120,17 +148,12 @@ int main() {
 
 		//	------------------------- Создание массива указателей на базовый класс Alcohol, его заполнение и действия над ним -------------------------
 
-		Alcohol* drinks[10];
-		drinks[0] = &beer;
-		drinks[1] = &beer2;
-		drinks[2] = &cognac;
-		drinks[3] = &cognac2;
-		drinks[4] = &vodka;
-		drinks[5] = &vodka2;
-		drinks[6] = &wine;
-		drinks[7] = &wine2;
-		drinks[8] = &champagne;
-		drinks[9] = &champagne2;
+		Alcohol* drinks[10] = { 
+			&beer, &beer2, 
+			&cognac, &cognac2,
+			&vodka, &vodka2, 
+			&wine, &wine2,
+			&champagne, &champagne2 };
 
 
 		int countBeer = 0,
@@ -157,7 +180,7 @@ int main() {
 			if (dynamic_cast<Wine*>(drinks[i])) {
 				countWine++;
 			}
-			if (dynamic_cast<Сhampagne*>(drinks[i])) {
+			if (dynamic_cast<Champagne*>(drinks[i])) {
 				countChampagne++;
 			}
 			
@@ -185,4 +208,5 @@ int main() {
 	catch (...) {
 		cout << "Данные введены неверно" << endl;
 	}
+	*/
 }

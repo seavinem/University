@@ -21,15 +21,9 @@
     <ClCompile Include="Alcohol.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Drinks.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Alcohol.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="Drinks.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

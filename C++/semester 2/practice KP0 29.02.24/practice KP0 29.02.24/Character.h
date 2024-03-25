@@ -52,6 +52,9 @@ public:
 	void setMoveAbility(const bool& moveAbility) { this->moveAbility = moveAbility; }
 
 	friend ostream& operator << (ostream& os, const Character& character);
+
+
+	virtual print() const;
 };
 
 class Wizard : public Character {

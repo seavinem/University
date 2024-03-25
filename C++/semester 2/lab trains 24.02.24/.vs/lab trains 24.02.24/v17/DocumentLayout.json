@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\lab trains 24.02.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|solutionrelative:lab trains 24.02.24\\lab trains 24.02.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\A2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|solutionrelative:lab trains 24.02.24\\A2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\lab trains 24.02.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|solutionrelative:lab trains 24.02.24\\lab trains 24.02.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\A1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|solutionrelative:lab trains 24.02.24\\A1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C515A-409B-446C-8F6A-7D600E06F029}|lab trains 24.02.24\\lab trains 24.02.24.vcxproj|D:\\UTILITIES\\VISUAL STUDIO\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\LIST||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +35,7 @@
               "RelativeDocumentMoniker": "lab trains 24.02.24\\A1.txt",
               "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\A1.txt",
               "RelativeToolTip": "lab trains 24.02.24\\A1.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-02-25T17:47:32.544Z",
               "IsPinned": true,
@@ -40,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "A2.txt",
               "DocumentMoniker": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\A2.txt",
               "RelativeDocumentMoniker": "lab trains 24.02.24\\A2.txt",
               "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\A2.txt",
               "RelativeToolTip": "lab trains 24.02.24\\A2.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-02-25T17:47:54.576Z",
               "IsPinned": true,
@@ -54,13 +57,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "list",
+              "DocumentMoniker": "D:\\utilities\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\utilities\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ToolTip": "D:\\utilities\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\utilities\\Visual Studio\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ViewState": "AQIAALUEAAAAAAAAAAAcwMUEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-05T19:02:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab trains 24.02.24.cpp",
               "DocumentMoniker": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\lab trains 24.02.24.cpp",
               "RelativeDocumentMoniker": "lab trains 24.02.24\\lab trains 24.02.24.cpp",
               "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab trains 24.02.24\\lab trains 24.02.24\\lab trains 24.02.24.cpp",
               "RelativeToolTip": "lab trains 24.02.24\\lab trains 24.02.24.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAJwAAAANAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-24T07:54:53.938Z",
               "EditorCaption": ""

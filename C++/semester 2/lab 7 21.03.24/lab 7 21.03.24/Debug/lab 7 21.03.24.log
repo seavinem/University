@@ -1,0 +1,79 @@
+﻿  lab 7 21.03.24.cpp
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(94,88): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(95,47): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(114,70): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(114,94): error C2039: "Number": не является членом "SStudData".
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(130,47): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(138,45): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(140,58): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(163,47): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(179,47): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(192,47): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(219,42): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(234,47): error C2248: SStudData::Marks: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(20,20):
+   см. объявление "SStudData::Marks"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\lab 7 21.03.24.cpp(240,42): error C2248: SStudData::Name: невозможно обратиться к private член, объявленному в классе "SStudData"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(18,12):
+   см. объявление "SStudData::Name"
+  D:\projects\projects_university\projects_BSU\C++\semester 2\lab 7 21.03.24\lab 7 21.03.24\SStudData.h(17,7):
+   см. объявление "SStudData"
+  
+  SStudData.cpp
+  Создание кода...
