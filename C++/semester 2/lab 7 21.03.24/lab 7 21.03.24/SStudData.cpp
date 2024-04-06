@@ -46,24 +46,16 @@ vector<SMark> SStudData::getMarks() const {
 
 SStudData& SStudData::operator=(const SStudData& student) {
     if (this != &student) {
-        *this = SStudData(student);
+        this->Name = student.Name;
+        this->ID = student.ID;
+        this->Marks = student.Marks;
     }
     return *this;
 }
 
-bool SStudData::operator<(const SStudData& data)
-{
-    if (Name != data.Name) {
-        return Name < data.Name;
-    }
-    else {
-        return averageMark() > data.averageMark();
-    }
-}
-
 ostream& operator<<(ostream& out, const SStudData& student)
 {
-    out << setw(6) << student.ID << " - " << setw(17) << left << student.Name << " - | ";
+    out << setw(12) << left << student.Name << " - " << setw(6) << student.ID << " - | ";
     for (const auto& mark : student.Marks) {
         out << setw(5) << mark.Subject << ": " << setw(2) << mark.Mark << " | ";
     }

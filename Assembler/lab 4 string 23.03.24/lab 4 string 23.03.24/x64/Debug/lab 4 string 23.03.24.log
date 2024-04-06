@@ -1,0 +1,106 @@
+﻿  lab 4 string 23.03.24.cpp
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(9,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(12,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,13): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,26): error C2065: str: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "address"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(13,30): error C2065: address: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,13): error C2065: ecx: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,26): error C2065: str: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(14,30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "length"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,13): error C2065: esi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,24): error C2065: newStr: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "address"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(15,31): error C2065: address: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,9): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,13): error C2065: eax: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,32): error C2065: initialized: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,44): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "to"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,22): error C3861: wordStart: идентификатор не найден
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,44): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "to"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,44): error C2065: to: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(16,50): error C2059: синтаксическая ошибка: )
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(18,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "find_words_loop"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,9): error C2065: cmp: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,13): error C2065: ecx: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,21): error C2065: Check: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "if"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(19,30): error C2061: синтаксическая ошибка: идентификатор "end"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(21,36): error C2065: Load: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(21,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "current"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(21,41): error C2065: current: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(21,49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "character"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(21,49): error C2065: character: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(23,15): error C2065: Check: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(23,21): error C2143: синтаксическая ошибка: отсутствие ";" перед "if"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(23,24): error C2061: синтаксическая ошибка: идентификатор "uppercase"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,15): error C2065: If: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "uppercase"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,32): error C2065: wordStart: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,45): warning C4551: в вызове функции отсутствует список аргументов
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "is"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,42): error C2065: is: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,50): error C2065: start: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tracking"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,56): error C2065: tracking: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(29,65): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "word"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(30,13): error C2065: cmp: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(30,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(30,17): error C2065: eax: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jne"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(31,13): error C2065: jne: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(31,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "continue_loop"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(31,17): error C2065: continue_loop: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,13): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,17): error C2065: eax: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,22): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,27): error C2065: Set: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "wordStart"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(32,31): error C2065: wordStart: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "continue_loop"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(35,9): error C2065: jmp: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "next_char"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(35,13): error C2065: next_char: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(37,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not_uppercase"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(38,11): error C2065: Check: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(38,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "if"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(38,20): error C2061: синтаксическая ошибка: идентификатор "space"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,15): error C2065: Copy: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "word"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "to"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,25): error C2065: to: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "newStr"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(43,28): error C2065: newStr: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,13): error C2065: push: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,18): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,23): error C2065: Save: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(44,28): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,13): error C2065: mov: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,17): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,22): error C2065: eax: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,27): error C2065: Set: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,31): error C2065: edi: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "to"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,35): error C2065: to: необъявленный идентификатор
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "wordStart"
+D:\projects\projects_university\projects_BSU\Assembler\lab 4 string 23.03.24\lab 4 string 23.03.24\lab 4 string 23.03.24.cpp(45,38): error C1003: число ошибок превышает 100; остановка компиляции

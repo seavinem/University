@@ -15,7 +15,7 @@ struct SMark
 };
 
 class SStudData {
-    string Name; //фамилия, инициалы
+    string Name; //фамилия
     int ID; //номер зачетки
     vector <SMark> Marks; //рез-ты сессии
 
@@ -26,7 +26,6 @@ public:
     SStudData(const SStudData& student);
 
     SStudData& operator = (const SStudData& student);
-    bool operator < (const SStudData& data);
 
     void addMark(const SMark& mark);
     int sumMarks() const;
