@@ -1,0 +1,45 @@
+# ninja log v5
+623	3048	7345415526700544	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	f4a543f3e18fbb01
+21	184	7345501131306358	untitled_autogen/timestamp	3651472acae603b0
+21	184	7345501131306358	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+21	184	7345501131306358	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+21	184	7345501131306358	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+627	3118	7345415527421450	CMakeFiles/untitled.dir/main.cpp.obj	8f97b6c21b005bd7
+201	2434	7345501153742369	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+2435	2642	7345501155807980	untitled.exe	661a74156738a20c
+7	164	7345507673614112	untitled_autogen/timestamp	3651472acae603b0
+7	164	7345507673614112	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+7	164	7345507673614112	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+7	164	7345507673614112	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+177	2322	7345507695163695	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+2322	2503	7345507696903377	untitled.exe	661a74156738a20c
+12	175	7345509373829266	untitled_autogen/timestamp	3651472acae603b0
+12	175	7345509373829266	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+12	175	7345509373829266	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+12	175	7345509373829266	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+186	1854	7345509390574704	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+1854	2025	7345509392239313	untitled.exe	661a74156738a20c
+12	160	7345516638546455	untitled_autogen/timestamp	3651472acae603b0
+12	160	7345516638546455	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+12	160	7345516638546455	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+12	160	7345516638546455	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+171	1864	7345516655489328	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+1865	2041	7345516657281696	untitled.exe	661a74156738a20c
+14	219	7345516976694425	untitled_autogen/timestamp	3651472acae603b0
+14	219	7345516976694425	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+14	219	7345516976694425	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+14	219	7345516976694425	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+231	2096	7345516995561791	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+2096	2288	7345516997437595	untitled.exe	661a74156738a20c
+14	182	7345517867025187	untitled_autogen/timestamp	3651472acae603b0
+14	182	7345517867025187	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+14	182	7345517867025187	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+14	182	7345517867025187	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+193	1913	7345517884290461	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+1914	2084	7345517885997885	untitled.exe	661a74156738a20c
+19	187	7345518365745673	untitled_autogen/timestamp	3651472acae603b0
+19	187	7345518365745673	untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+19	187	7345518365745673	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	3651472acae603b0
+19	187	7345518365745673	C:/game and prog/proga/qt/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	3651472acae603b0
+198	2029	7345518384216055	CMakeFiles/untitled.dir/mainwindow.cpp.obj	af1afcd16f501bab
+2029	2208	7345518385948573	untitled.exe	661a74156738a20c

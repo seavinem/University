@@ -1,4 +1,5 @@
 ﻿#include "SStudData.h"
+#include <windows.h>
 using namespace std;
 
 
@@ -198,18 +199,23 @@ void printStudentsInRange(const map<int, SStudData>& students, double min, doubl
 
     vector<SStudData> studentsInfo;
     for (const auto& student : students) {
-        if(student.second.averageMark() <= min || student.second.averageMark() <= max)
+        if(student.second.averageMark() >= min && student.second.averageMark() <= max)
             studentsInfo.push_back(student.second);
     }
-    sort(studentsInfo.begin(), studentsInfo.end(), comparator3);
 
-
-    for (const auto& student : studentsInfo) {
-        cout << setw(12) << student.getName() << " ";
-        cout.precision(2);
-        cout << student.averageMark() << endl;
+    if (studentsInfo.size() == 0) {
+        cout << "В данном диапазоне нет студентов" << endl;
     }
+    else {
+        sort(studentsInfo.begin(), studentsInfo.end(), comparator3);
 
+        for (const auto& student : studentsInfo) {
+            cout << setw(12) << student.getName() << " ";
+            cout.precision(2);
+            cout << student.averageMark() << endl;
+        }
+    }
+ 
 }
 
 void printStudentsBySubject(const map<int, SStudData>& students, const string& subject) {
@@ -250,6 +256,8 @@ void printCountStudentsBySubject(const map<int, SStudData>& students) {
 
 int main() {
     setlocale(LC_ALL, "ru");
+    SetConsoleOutputCP(1251);
+    SetConsoleCP(1251);
     ifstream input("in.txt");
 
     double min, max;
@@ -368,7 +376,7 @@ int main() {
         // ---------------------- 8) Вывести список студентов, средний балл которых принадлежит заданному диапазону ----------------------
         
         cout << endl << "------------------------------------------------------------------------" << endl;
-        cout << "8) Вывести список студентов, средний балл которых принадлежит заданному диапазону" << endl << endl;
+        cout << "8) Вывести список студентов, средний балл которых принадлежит заданному диапазону -> " << min << ".." << max << endl << endl;
 
         printStudentsInRange(sessionResults, min, max);
         cout << endl;
@@ -378,7 +386,7 @@ int main() {
         // -------------------------------- 9) Вывести список студентов, которые сдавали заданный предмет --------------------------------
         
         cout << endl << "------------------------------------------------------------------------" << endl;
-        cout << "9) Вывести список студентов, которые сдавали заданный предмет" << endl << endl;
+        cout << "9) Вывести список студентов, которые сдавали заданный предмет -> " << subject << endl << endl;
 
         printStudentsBySubject(sessionResults, subject);
         cout << endl;

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|solutionrelative:lab 6 04.04.24\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\lab 6 04.04.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|solutionrelative:lab 6 04.04.24\\lab 6 04.04.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\trees.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|solutionrelative:lab 6 04.04.24\\trees.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD813B9-77AC-47AE-BB80-F2DF87E3FCB8}|lab 6 04.04.24\\lab 6 04.04.24.vcxproj|solutionrelative:lab 6 04.04.24\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Tree.h",
               "DocumentMoniker": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\Tree.h",
               "RelativeDocumentMoniker": "lab 6 04.04.24\\Tree.h",
               "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\Tree.h",
               "RelativeToolTip": "lab 6 04.04.24\\Tree.h",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAAANAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAlwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-04T09:57:11.655Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "lab 6 04.04.24.cpp",
               "DocumentMoniker": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\lab 6 04.04.24.cpp",
               "RelativeDocumentMoniker": "lab 6 04.04.24\\lab 6 04.04.24.cpp",
               "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\lab 6 04.04.24.cpp",
               "RelativeToolTip": "lab 6 04.04.24\\lab 6 04.04.24.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAmAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-04T09:55:48.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trees.txt",
+              "DocumentMoniker": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\trees.txt",
+              "RelativeDocumentMoniker": "lab 6 04.04.24\\trees.txt",
+              "ToolTip": "D:\\projects\\projects_university\\projects_BSU\\C\u002B\u002B\\semester 2\\lab 6 04.04.24\\lab 6 04.04.24\\trees.txt",
+              "RelativeToolTip": "lab 6 04.04.24\\trees.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-09T13:01:16.797Z",
               "EditorCaption": ""
             }
           ]

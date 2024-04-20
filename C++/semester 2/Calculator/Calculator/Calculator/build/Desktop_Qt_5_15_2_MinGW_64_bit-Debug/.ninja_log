@@ -1,0 +1,71 @@
+# ninja log v5
+21	619	7351333330372024	Calculator_autogen/timestamp	e928f07dd7a7ad48
+21	619	7351333330372024	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+21	619	7351333330372024	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+21	619	7351333330372024	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+620	2646	7351333351205992	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	623f77356d735d0d
+3543	3967	7351323997260910	Calculator.exe	94561c952fd3d332
+625	2826	7351333352994760	CMakeFiles/Calculator.dir/main.cpp.obj	ca005d402afddcc1
+630	3044	7351333355167881	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+25	1770	7351333487897203	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	623f77356d735d0d
+1771	1983	7351333489964985	Calculator.exe	94561c952fd3d332
+8	214	7351338537542909	Calculator_autogen/timestamp	e928f07dd7a7ad48
+8	214	7351338537542909	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+8	214	7351338537542909	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+8	214	7351338537542909	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+220	2425	7351338559661137	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2426	2644	7351338561783635	Calculator.exe	94561c952fd3d332
+16	162	7351340191977944	Calculator_autogen/timestamp	e928f07dd7a7ad48
+16	162	7351340191977944	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+16	162	7351340191977944	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+16	162	7351340191977944	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+165	2381	7351340214158583	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2382	2588	7351340216183798	Calculator.exe	94561c952fd3d332
+23	189	7351340806074575	Calculator_autogen/timestamp	e928f07dd7a7ad48
+23	189	7351340806074575	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+23	189	7351340806074575	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+23	189	7351340806074575	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+193	2846	7351340832651248	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2847	3081	7351340834966093	Calculator.exe	94561c952fd3d332
+15	208	7351343049490970	Calculator_autogen/timestamp	e928f07dd7a7ad48
+15	208	7351343049490970	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+15	208	7351343049490970	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+15	208	7351343049490970	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+212	3177	7351343079174151	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+3177	3698	7351343084351706	Calculator.exe	94561c952fd3d332
+5	134	7351344342358257	Calculator_autogen/timestamp	e928f07dd7a7ad48
+5	134	7351344342358257	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+5	134	7351344342358257	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+5	134	7351344342358257	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+138	2204	7351344363054064	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2204	2414	7351344365092504	Calculator.exe	94561c952fd3d332
+5	166	7351348184206871	Calculator_autogen/timestamp	e928f07dd7a7ad48
+5	166	7351348184206871	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+5	166	7351348184206871	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+5	166	7351348184206871	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+169	2179	7351348204321097	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2179	2384	7351348206338059	Calculator.exe	94561c952fd3d332
+30	216	7351349571152872	Calculator_autogen/timestamp	e928f07dd7a7ad48
+30	216	7351349571152872	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+30	216	7351349571152872	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+30	216	7351349571152872	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+220	2817	7351349597199422	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2818	3043	7351349599408340	Calculator.exe	94561c952fd3d332
+30	228	7351349745956123	Calculator_autogen/timestamp	e928f07dd7a7ad48
+30	228	7351349745956123	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+30	228	7351349745956123	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+30	228	7351349745956123	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+232	2727	7351349770987965	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2727	2951	7351349773170267	Calculator.exe	94561c952fd3d332
+18	185	7351351549229500	Calculator_autogen/timestamp	e928f07dd7a7ad48
+18	185	7351351549229500	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+18	185	7351351549229500	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+18	185	7351351549229500	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+188	2391	7351351571292127	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2391	2589	7351351573239599	Calculator.exe	94561c952fd3d332
+20	177	7351351942661554	Calculator_autogen/timestamp	e928f07dd7a7ad48
+20	177	7351351942661554	Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+20	177	7351351942661554	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	e928f07dd7a7ad48
+20	177	7351351942661554	D:/projects/projects_university/projects_BSU/C++/semester 2/Calculator/Calculator/Calculator/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	e928f07dd7a7ad48
+180	2791	7351351968804730	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	4ed1ac36d9c1eb2c
+2792	3024	7351351971077910	Calculator.exe	94561c952fd3d332
