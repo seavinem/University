@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b987145eaf3aa0696422.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tic_tac_toe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_tac_toe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_tac_toe-Debug-31f97f0378c112f5464b.json",
+					"name" : "Tic_tac_toe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_tac_toe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_tac_toe_autogen-Debug-877c911a72e2b1f6dcd8.json",
+					"name" : "Tic_tac_toe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_tac_toe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_tac_toe_autogen_timestamp_deps-Debug-1007f250641c8e421484.json",
+					"name" : "Tic_tac_toe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/projects/projects_university/projects_BSU/C++/semester 2/Tic_tac_toe/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "D:/projects/projects_university/projects_BSU/C++/semester 2/Tic_tac_toe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
