@@ -1,0 +1,51 @@
+# ninja log v5
+282	1469	7356927795319649	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	7271d25953405f2a
+11	108	7356928010024240	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+11	108	7356928010024240	untitled_autogen/timestamp	1d9e5855323b6ab7
+11	108	7356928010024240	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+110	1714	7356928026089126	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+11	108	7356928010024240	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+285	1594	7356927796568951	CMakeFiles/untitled.dir/main.cpp.obj	25ac3d3eeb99ee2a
+1715	1845	7356928027367476	untitled.exe	a689b646beeb5a88
+11	104	7356928219233536	untitled_autogen/timestamp	1d9e5855323b6ab7
+11	104	7356928219233536	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+11	104	7356928219233536	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+11	104	7356928219233536	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+106	1529	7356928233482160	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1530	1659	7356928234743868	untitled.exe	a689b646beeb5a88
+11	101	7356928544226949	untitled_autogen/timestamp	1d9e5855323b6ab7
+11	101	7356928544226949	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+11	101	7356928544226949	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+11	101	7356928544226949	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+104	1473	7356928557944092	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1474	1602	7356928559202252	untitled.exe	a689b646beeb5a88
+3	91	7356930859824716	untitled_autogen/timestamp	1d9e5855323b6ab7
+3	91	7356930859824716	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+3	91	7356930859824716	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+3	91	7356930859824716	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+94	1471	7356930873624995	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1472	1602	7356930874909173	untitled.exe	a689b646beeb5a88
+9	96	7356931867542003	untitled_autogen/timestamp	1d9e5855323b6ab7
+9	96	7356931867542003	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+9	96	7356931867542003	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+9	96	7356931867542003	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+98	1485	7356931881437582	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1486	1610	7356931882660013	untitled.exe	a689b646beeb5a88
+4	113	7356932527668875	untitled_autogen/timestamp	1d9e5855323b6ab7
+4	113	7356932527668875	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+4	113	7356932527668875	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+4	113	7356932527668875	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+115	1518	7356932541702294	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1518	1644	7356932542956317	untitled.exe	a689b646beeb5a88
+10	100	7356933173966324	untitled_autogen/timestamp	1d9e5855323b6ab7
+10	100	7356933173966324	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+10	100	7356933173966324	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+10	100	7356933173966324	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+103	1564	7356933188606976	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1564	1695	7356933189885932	untitled.exe	a689b646beeb5a88
+9	100	7356933764231714	untitled_autogen/timestamp	1d9e5855323b6ab7
+9	100	7356933764231714	untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+9	100	7356933764231714	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1d9e5855323b6ab7
+9	100	7356933764231714	D:/projects/projects_university/projects_BSU/C++/semester 2/untitled/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1d9e5855323b6ab7
+102	1544	7356933778659658	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d32e986adfd5a73
+1544	1674	7356933779935308	untitled.exe	a689b646beeb5a88
