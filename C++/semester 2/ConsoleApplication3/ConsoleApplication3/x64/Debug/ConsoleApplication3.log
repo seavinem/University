@@ -1,0 +1,16 @@
+﻿  Bank.cpp
+D:\projects\projects_university\ConsoleApplication3\ConsoleApplication3\Bank.h(164,49): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Bank.cpp")
+  
+D:\projects\projects_university\ConsoleApplication3\ConsoleApplication3\Bank.h(199,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Bank.cpp")
+  
+  ConsoleApplication3.cpp
+D:\projects\projects_university\ConsoleApplication3\ConsoleApplication3\Bank.h(164,49): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication3.cpp")
+  
+D:\projects\projects_university\ConsoleApplication3\ConsoleApplication3\Bank.h(199,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication3.cpp")
+  
+  Создание кода...
+  ConsoleApplication3.vcxproj -> D:\projects\projects_university\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5d0aaa105dc9ac01b07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mvc_hospital",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mvc_hospital::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mvc_hospital-Debug-02a0ed554ff37445d799.json",
+					"name" : "mvc_hospital",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mvc_hospital_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mvc_hospital_autogen-Debug-2acadd5230b65c1a7e40.json",
+					"name" : "mvc_hospital_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mvc_hospital_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mvc_hospital_autogen_timestamp_deps-Debug-497ed3d260972011a50f.json",
+					"name" : "mvc_hospital_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

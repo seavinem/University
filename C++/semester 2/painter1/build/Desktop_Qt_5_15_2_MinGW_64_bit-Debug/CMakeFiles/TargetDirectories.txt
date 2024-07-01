@@ -1,0 +1,9 @@
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/painter1.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/painter1_autogen_timestamp_deps.dir
+D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/painter1_autogen.dir

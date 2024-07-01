@@ -1,0 +1,95 @@
+# ninja log v5
+6431	6641	7362646893565444	painter1.exe	ff8895ca208c4ee0
+17	173	7362646828920450	painter1_autogen/timestamp	4cceb860f41503e0
+17	173	7362646828920450	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+17	173	7362646828920450	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+1712	10053	7362639884002189	CMakeFiles/painter1.dir/painter1_autogen/mocs_compilation.cpp.obj	cad2b7b51388c8c8
+17	173	7362646828920450	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+1707	9935	7362639882863993	CMakeFiles/painter1.dir/main.cpp.obj	17cf9ea943840a63
+180	6430	7362646891480685	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+16	180	7362647745643024	painter1_autogen/timestamp	4cceb860f41503e0
+16	180	7362647745643024	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	180	7362647745643024	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	180	7362647745643024	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+187	6479	7362647808633865	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6480	6692	7362647810734963	painter1.exe	ff8895ca208c4ee0
+16	175	7362648485893699	painter1_autogen/timestamp	4cceb860f41503e0
+16	175	7362648485893699	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	175	7362648485893699	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	175	7362648485893699	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+182	6494	7362648549087197	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6495	6711	7362648551204163	painter1.exe	ff8895ca208c4ee0
+17	179	7362652083648388	painter1_autogen/timestamp	4cceb860f41503e0
+17	179	7362652083648388	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+17	179	7362652083648388	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+17	179	7362652083648388	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+186	6384	7362652145698803	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6385	6596	7362652147781449	painter1.exe	ff8895ca208c4ee0
+9	182	7362654130061557	painter1_autogen/timestamp	4cceb860f41503e0
+9	182	7362654130061557	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+9	182	7362654130061557	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+9	182	7362654130061557	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+189	6364	7362654191885275	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6364	6575	7362654193950282	painter1.exe	ff8895ca208c4ee0
+16	188	7362656097092947	painter1_autogen/timestamp	4cceb860f41503e0
+16	188	7362656097092947	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	188	7362656097092947	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	188	7362656097092947	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+195	6672	7362656161932811	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6672	6890	7362656164088394	painter1.exe	ff8895ca208c4ee0
+7	168	7362659047247381	painter1_autogen/timestamp	4cceb860f41503e0
+7	168	7362659047247381	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+7	168	7362659047247381	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+7	168	7362659047247381	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+175	6586	7362659111415636	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6586	6804	7362659113579720	painter1.exe	ff8895ca208c4ee0
+17	186	7362659922067578	painter1_autogen/timestamp	4cceb860f41503e0
+17	186	7362659922067578	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+17	186	7362659922067578	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+17	186	7362659922067578	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+193	6715	7362659987373119	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6716	6940	7362659989583228	painter1.exe	ff8895ca208c4ee0
+16	179	7362660354633371	painter1_autogen/timestamp	4cceb860f41503e0
+16	179	7362660354633371	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	179	7362660354633371	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	179	7362660354633371	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+186	6779	7362660420625342	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6779	7005	7362660422842306	painter1.exe	ff8895ca208c4ee0
+16	175	7362660973838757	painter1_autogen/timestamp	4cceb860f41503e0
+16	175	7362660973838757	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	175	7362660973838757	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	175	7362660973838757	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+182	6597	7362661038054458	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6597	6812	7362661040160770	painter1.exe	ff8895ca208c4ee0
+17	179	7362661543004085	painter1_autogen/timestamp	4cceb860f41503e0
+17	179	7362661543004085	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+17	179	7362661543004085	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+17	179	7362661543004085	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+186	6341	7362661604627963	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6341	6548	7362661606673651	painter1.exe	ff8895ca208c4ee0
+18	186	7362661983640401	painter1_autogen/timestamp	4cceb860f41503e0
+18	186	7362661983640401	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+18	186	7362661983640401	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+18	186	7362661983640401	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+193	6591	7362662047686209	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6592	6813	7362662049892473	painter1.exe	ff8895ca208c4ee0
+17	186	7362662893983774	painter1_autogen/timestamp	4cceb860f41503e0
+17	186	7362662893983774	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+17	186	7362662893983774	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+17	186	7362662893983774	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+193	6653	7362662958650349	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6654	6885	7362662960931456	painter1.exe	ff8895ca208c4ee0
+16	178	7362665306611380	painter1_autogen/timestamp	4cceb860f41503e0
+16	178	7362665306611380	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+16	178	7362665306611380	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+16	178	7362665306611380	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+185	6533	7362665370163393	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+6534	6748	7362665372286380	painter1.exe	ff8895ca208c4ee0
+23	1742	7362791133639819	painter1_autogen/timestamp	4cceb860f41503e0
+23	1742	7362791133639819	painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+23	1742	7362791133639819	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/timestamp	4cceb860f41503e0
+23	1742	7362791133639819	D:/projects/projects_university/projects_BSU/C++/semester 2/painter1/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/painter1_autogen/mocs_compilation.cpp	4cceb860f41503e0
+1749	10434	7362791221405865	CMakeFiles/painter1.dir/painter1_autogen/mocs_compilation.cpp.obj	cad2b7b51388c8c8
+1743	10441	7362791221471103	CMakeFiles/painter1.dir/main.cpp.obj	17cf9ea943840a63
+1754	10465	7362791221709385	CMakeFiles/painter1.dir/mainwindow.cpp.obj	7b9f122a3e73aadb
+10466	10869	7362791225676687	painter1.exe	ff8895ca208c4ee0

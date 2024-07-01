@@ -1,0 +1,41 @@
+# ninja log v5
+30	796	7374826837560738	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+796	4262	7374826873047330	CMakeFiles/mvc_hospital.dir/mvc_hospital_autogen/mocs_compilation.cpp.obj	9f5a46809c0d767
+804	4270	7374826873128342	CMakeFiles/mvc_hospital.dir/main.cpp.obj	8da74d9b629bf557
+30	796	7374826837560738	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+30	796	7374826837560738	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+30	796	7374826837560738	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+819	4229	7374826872686531	CMakeFiles/mvc_hospital.dir/controller.cpp.obj	ed94131cbaf10760
+826	3399	7374826864405172	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+4347	4605	7374826876384785	mvc_hospital.exe	f63f1e0b1dc01a0d
+812	4346	7374826873880932	CMakeFiles/mvc_hospital.dir/mainview.cpp.obj	5314c1075da90b2b
+22	243	7374828942713258	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+22	243	7374828942713258	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+22	243	7374828942713258	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+22	243	7374828942713258	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+248	2429	7374828964578575	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+2430	2760	7374828967850881	mvc_hospital.exe	f63f1e0b1dc01a0d
+6	168	7374831581877338	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+6	168	7374831581877338	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+6	168	7374831581877338	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+6	168	7374831581877338	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+172	1952	7374831599723851	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+1953	2234	7374831602504882	mvc_hospital.exe	f63f1e0b1dc01a0d
+10	117	7374836171124315	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+10	117	7374836171124315	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+10	117	7374836171124315	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+10	117	7374836171124315	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+119	1581	7374836185766538	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+1581	1982	7374836189748670	mvc_hospital.exe	f63f1e0b1dc01a0d
+4	104	7374845212901160	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+4	104	7374845212901160	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+4	104	7374845212901160	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+4	104	7374845212901160	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+106	1172	7374845223583398	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+1172	1337	7374845225199736	mvc_hospital.exe	f63f1e0b1dc01a0d
+13	124	7374851321660775	mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+13	124	7374851321660775	mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+13	124	7374851321660775	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/timestamp	2f6557d1b2df4529
+13	124	7374851321660775	D:/projects/projects_university/projects_BSU/C++/semester 2/mvc_hospital/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/mvc_hospital_autogen/mocs_compilation.cpp	2f6557d1b2df4529
+126	1250	7374851332920254	CMakeFiles/mvc_hospital.dir/model.cpp.obj	165b971c5c011282
+1250	1421	7374851334606677	mvc_hospital.exe	f63f1e0b1dc01a0d

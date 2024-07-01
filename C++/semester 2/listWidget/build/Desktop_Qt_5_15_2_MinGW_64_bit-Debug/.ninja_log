@@ -1,0 +1,85 @@
+# ninja log v5
+17	210	7363043229299580	listWidget_autogen/timestamp	af7f4843e30beb38
+214	2567	7363043252905476	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2568	2771	7363043254906784	listWidget.exe	118e9988cc2340fa
+17	210	7363043229299580	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+724	3751	7363041329203565	CMakeFiles/listWidget.dir/listWidget_autogen/mocs_compilation.cpp.obj	1f6362fee95cdd52
+17	210	7363043229299580	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+17	210	7363043229299580	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+763	3743	7363041329187191	CMakeFiles/listWidget.dir/main.cpp.obj	17bb8e4d2795372b
+18	223	7363043576623868	listWidget_autogen/timestamp	af7f4843e30beb38
+18	223	7363043576623868	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+18	223	7363043576623868	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+18	223	7363043576623868	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+227	2767	7363043602094672	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2767	2963	7363043603998286	listWidget.exe	118e9988cc2340fa
+16	167	7363351696723717	listWidget_autogen/timestamp	af7f4843e30beb38
+16	167	7363351696723717	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+16	167	7363351696723717	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+16	167	7363351696723717	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+170	3022	7363351725319797	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+3022	3353	7363351728647909	listWidget.exe	118e9988cc2340fa
+15	152	7363353908504197	listWidget_autogen/timestamp	af7f4843e30beb38
+15	152	7363353908504197	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+15	152	7363353908504197	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+15	152	7363353908504197	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+155	2443	7363353931453398	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2444	2656	7363353933613285	listWidget.exe	118e9988cc2340fa
+10	149	7363354647017491	listWidget_autogen/timestamp	af7f4843e30beb38
+10	149	7363354647017491	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+10	149	7363354647017491	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+10	149	7363354647017491	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+153	2397	7363354669516556	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2397	2599	7363354671519731	listWidget.exe	118e9988cc2340fa
+19	168	7363357732943838	listWidget_autogen/timestamp	af7f4843e30beb38
+19	168	7363357732943838	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+19	168	7363357732943838	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+19	168	7363357732943838	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+20	167	7363357884856184	listWidget_autogen/timestamp	af7f4843e30beb38
+20	167	7363357884856184	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+20	167	7363357884856184	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+20	167	7363357884856184	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+172	2573	7363357908886196	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2573	2783	7363357911042146	listWidget.exe	118e9988cc2340fa
+14	147	7363359429982776	listWidget_autogen/timestamp	af7f4843e30beb38
+14	147	7363359429982776	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+14	147	7363359429982776	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+14	147	7363359429982776	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+150	2462	7363359453199307	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2463	2667	7363359455238384	listWidget.exe	118e9988cc2340fa
+17	172	7363361007210580	listWidget_autogen/timestamp	af7f4843e30beb38
+17	172	7363361007210580	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+17	172	7363361007210580	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+17	172	7363361007210580	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+176	2372	7363361029219218	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2372	2574	7363361031251500	listWidget.exe	118e9988cc2340fa
+6	209	7363364216449398	listWidget_autogen/timestamp	af7f4843e30beb38
+6	209	7363364216449398	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+6	209	7363364216449398	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+6	209	7363364216449398	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+213	2536	7363364239713902	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2537	2735	7363364241592054	listWidget.exe	118e9988cc2340fa
+20	216	7363364429529899	listWidget_autogen/timestamp	af7f4843e30beb38
+20	216	7363364429529899	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+20	216	7363364429529899	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+20	216	7363364429529899	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+221	2753	7363364454819561	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2754	2968	7363364456974094	listWidget.exe	118e9988cc2340fa
+15	191	7363364931029063	listWidget_autogen/timestamp	af7f4843e30beb38
+15	191	7363364931029063	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+15	191	7363364931029063	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+15	191	7363364931029063	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+195	2659	7363364955808074	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2659	2860	7363364957806209	listWidget.exe	118e9988cc2340fa
+20	209	7363365565351667	listWidget_autogen/timestamp	af7f4843e30beb38
+20	209	7363365565351667	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+20	209	7363365565351667	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+20	209	7363365565351667	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+213	2458	7363365587934624	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2459	2659	7363365589782573	listWidget.exe	118e9988cc2340fa
+17	212	7363365732605112	listWidget_autogen/timestamp	af7f4843e30beb38
+17	212	7363365732605112	listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+17	212	7363365732605112	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/timestamp	af7f4843e30beb38
+17	212	7363365732605112	D:/projects/projects_university/projects_BSU/C++/semester 2/listWidget/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/listWidget_autogen/mocs_compilation.cpp	af7f4843e30beb38
+215	2672	7363365757215525	CMakeFiles/listWidget.dir/mainwindow.cpp.obj	86dcabedc0c3ad4e
+2673	2893	7363365759367300	listWidget.exe	118e9988cc2340fa
