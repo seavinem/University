@@ -1,4 +1,4 @@
-#include <iostream>
+Ôªø#include <iostream>
 #include <vector>
 #include <string>
 #include <map>
@@ -28,20 +28,20 @@ public:
     int insurance_months;
     int repayment;
     int turns_before_credit_end;
-    Player(int id) : id(id), raw_material(2), products(2), money(10000), credit(0), insurance_months(0), 
+    Player(int id) : id(id), raw_material(2), products(2), money(10000), credit(0), insurance_months(0),
         repayment(0), turns_before_credit_end(0), automated_factories(0), factories(2), products_processing(0)
     {    }
 
     std::string getInfo() const {
-        std::string info = "»ÌÙÓÏ‡ˆËˇ Ó· Ë„ÓÍÂ " + std::to_string(id) + ":\n";
-        info += "—˚¸Â: " + std::to_string(raw_material) + "\n";
-        info += "Œ·˚˜Ì˚Â Ù‡·ËÍË: " + std::to_string(factories) + "\n";
-        info += "¿‚ÚÓÏ‡ÚËÁËÓ‚‡ÌÌ˚Â Ù‡·ËÍË: " + std::to_string(automated_factories) + "\n";
-        info += "√ÓÚÓ‚‡ˇ ÔÓ‰ÛÍˆËˇ: " + std::to_string(products) + "\n";
-        info += "¬‡Î˛Ú‡: " + std::to_string(money) + "\n";
-        info += " Â‰ËÚ: " + std::to_string(credit) + "\n";
-        info += "ÃÂÒˇˆ˚ ÒÚ‡ıÓ‚ÍË: " + std::to_string(insurance_months) + "\n";
-        info += "ÃÂÒˇˆ˚ ‰Ó Á‡‚Â¯ÂÌËˇ ÛÎÛ˜¯ÂÌËˇ Ù‡·ËÍË: " + (factory_upgrade_month >= 0 ? std::to_string(factory_upgrade_month) : "ÌÂ ÛÎÛ˜¯‡ÂÚÒˇ") + "\n";
+        std::string info = "–ò–Ω—Ñ–æ—Ä–º–∞—Ü–∏—è –æ–± –∏–≥—Ä–æ–∫–µ " + std::to_string(id) + ":\n";
+        info += "–°—ã—Ä—å–µ: " + std::to_string(raw_material) + "\n";
+        info += "–û–±—ã—á–Ω—ã–µ —Ñ–∞–±—Ä–∏–∫–∏: " + std::to_string(factories) + "\n";
+        info += "–ê–≤—Ç–æ–º–∞—Ç–∏–∑–∏—Ä–æ–≤–∞–Ω–Ω—ã–µ —Ñ–∞–±—Ä–∏–∫–∏: " + std::to_string(automated_factories) + "\n";
+        info += "–ì–æ—Ç–æ–≤–∞—è –ø—Ä–æ–¥—É–∫—Ü–∏—è: " + std::to_string(products) + "\n";
+        info += "–í–∞–ª—é—Ç–∞: " + std::to_string(money) + "\n";
+        info += "–ö—Ä–µ–¥–∏—Ç: " + std::to_string(credit) + "\n";
+        info += "–ú–µ—Å—è—Ü—ã —Å—Ç—Ä–∞—Ö–æ–≤–∫–∏: " + std::to_string(insurance_months) + "\n";
+        info += "–ú–µ—Å—è—Ü—ã –¥–æ –∑–∞–≤–µ—Ä—à–µ–Ω–∏—è —É–ª—É—á—à–µ–Ω–∏—è —Ñ–∞–±—Ä–∏–∫–∏: " + (factory_upgrade_month >= 0 ? std::to_string(factory_upgrade_month) : "–Ω–µ —É–ª—É—á—à–∞–µ—Ç—Å—è") + "\n";
         return info;
     }
 };
@@ -66,7 +66,9 @@ private:
     std::map<int, std::pair<int, int>> auction_sell_offers; // <player_id, <quantity, price>>
 
 public:
-    Bank(int raw_materials, int products, int raw_price, int prod_price) : raw_materials_for_sale(raw_materials), products_for_sale(products), raw_material_price(raw_price), product_price(prod_price), priority_player_id(0), current_month(0) {}
+    Bank() :current_month(0), raw_materials_for_sale(0), products_for_sale(0), raw_material_price(0), product_price(0), priority_player_id(0) {
+
+    }
 
 
     void getPlayers() {
@@ -81,33 +83,34 @@ public:
         players.push_back(Player(id));
     }
 
-    void auctionBuyOffer(int player_id, int quantity, int price) {//¡‡ÌÍ ‰ÂÎ‡ÂÚ Á‡ÔÓÒ˚ Ì‡ ÔÓÍÛÔÍÛ
+    void auctionBuyOffer(int player_id, int quantity, int price) {//–ë–∞–Ω–∫ –¥–µ–ª–∞–µ—Ç –∑–∞–ø—Ä–æ—Å—ã –Ω–∞ –ø–æ–∫—É–ø–∫—É
         if (players[player_id].money > quantity * price) {
             auction_buy_offers[player_id] = std::make_pair(quantity, price);
         }
-        else std::cout << "” Ë„ÓÍ‡ ÌÓÏÂ " << player_id << " ÌÂ‰ÓÒÚ‡ÚÓ˜ÌÓ ‰ÂÌÂ„\n";
+        else std::cout << "–£ –∏–≥—Ä–æ–∫–∞ –Ω–æ–º–µ—Ä " << player_id << " –Ω–µ–¥–æ—Å—Ç–∞—Ç–æ—á–Ω–æ –¥–µ–Ω–µ–≥\n";
 
     }
 
-    void auctionSellOffer(int player_id, int quantity, int price) {//¡‡ÌÍ ‰ÂÎ‡ÂÚ Á‡ÔÓÒ˚ Ì‡ ÔÓ‰‡ÊÛ
+    void auctionSellOffer(int player_id, int quantity, int price) {//–ë–∞–Ω–∫ –¥–µ–ª–∞–µ—Ç –∑–∞–ø—Ä–æ—Å—ã –Ω–∞ –ø—Ä–æ–¥–∞–∂—É
         if (players[player_id].products >= quantity) {
             auction_sell_offers[player_id] = std::make_pair(quantity, price);
         }
-        else std::cout << "” Ë„ÓÍ‡ ÌÓÏÂ " << player_id << " ÌÂ‰ÓÒÚ‡ÚÓ˜ÌÓ ÔÓ‰ÛÍˆËË\n";
+        else std::cout << "–£ –∏–≥—Ä–æ–∫–∞ –Ω–æ–º–µ—Ä " << player_id << " –Ω–µ–¥–æ—Å—Ç–∞—Ç–æ—á–Ω–æ –ø—Ä–æ–¥—É–∫—Ü–∏–∏\n";
     }
 
 
     void bankSellOffer() {
-        raw_materials_for_sale = rand() % 10 + 1; // —ÎÛ˜‡ÈÌÓÂ ÍÓÎË˜ÂÒÚ‚Ó Ò˚¸ˇ ÓÚ 1 ‰Ó 10
-        raw_material_price = rand() % 500 + 100; // —ÎÛ˜‡ÈÌ‡ˇ ˆÂÌ‡ ÓÚ 100 ‰Ó 600
-        std::cout << "¡‡ÌÍ ÔÂ‰Î‡„‡ÂÚ " << raw_materials_for_sale << " ¯Ú. Ò˚¸ˇ ÔÓ ˆÂÌÂ " << raw_material_price << " ‚‡Î˛Ú˚ Á‡ ¯Ú.\n";
+        raw_materials_for_sale = rand() % 10 + 1; // –°–ª—É—á–∞–π–Ω–æ–µ –∫–æ–ª–∏—á–µ—Å—Ç–≤–æ —Å—ã—Ä—å—è –æ—Ç 1 –¥–æ 10
+        raw_material_price = rand() % 500 + 100; // –°–ª—É—á–∞–π–Ω–∞—è —Ü–µ–Ω–∞ –æ—Ç 100 –¥–æ 600
+        std::cout << "–ë–∞–Ω–∫ –ø—Ä–µ–¥–ª–∞–≥–∞–µ—Ç " << raw_materials_for_sale << " —à—Ç. —Å—ã—Ä—å—è –ø–æ —Ü–µ–Ω–µ " << raw_material_price << " –≤–∞–ª—é—Ç—ã –∑–∞ —à—Ç.\n";
     }
 
     void bankBuyOffer() {
-        products_for_sale = rand() % 10 + 1; // —ÎÛ˜‡ÈÌÓÂ ÍÓÎË˜ÂÒÚ‚Ó ÔÓ‰ÛÍˆËË ÓÚ 1 ‰Ó 10
-        product_price = rand() % 500 + 100; // —ÎÛ˜‡ÈÌ‡ˇ ˆÂÌ‡ ÓÚ 100 ‰Ó 600
-        std::cout << "¡‡ÌÍ „ÓÚÓ‚ ÍÛÔËÚ¸ " << products_for_sale << " ¯Ú. „ÓÚÓ‚ÓÈ ÔÓ‰ÛÍˆËË ÔÓ ˆÂÌÂ " << product_price << " ‚‡Î˛Ú˚ Á‡ ¯Ú.\n";
+        products_for_sale = rand() % 10 + 1; // –°–ª—É—á–∞–π–Ω–æ–µ –∫–æ–ª–∏—á–µ—Å—Ç–≤–æ –ø—Ä–æ–¥—É–∫—Ü–∏–∏ –æ—Ç 1 –¥–æ 10
+        product_price = rand() % 500 + 100; // –°–ª—É—á–∞–π–Ω–∞—è —Ü–µ–Ω–∞ –æ—Ç 100 –¥–æ 600
+        std::cout << "–ë–∞–Ω–∫ –≥–æ—Ç–æ–≤ –∫—É–ø–∏—Ç—å " << products_for_sale << " —à—Ç. –≥–æ—Ç–æ–≤–æ–π –ø—Ä–æ–¥—É–∫—Ü–∏–∏ –ø–æ —Ü–µ–Ω–µ " << product_price << " –≤–∞–ª—é—Ç—ã –∑–∞ —à—Ç.\n";
     }
+
 
 
 
@@ -172,7 +175,7 @@ public:
 
 
     void makeMaterial(int player_id, int material) {
-        
+
         if (material > players[player_id].raw_material) {
             std::cout << "Not enough raw material" << std::endl;
         }
@@ -217,7 +220,7 @@ public:
         bool isRandom = true;
 
         for (auto& player : players) {
-            if (player.turns_before_credit_end>0) {
+            if (player.turns_before_credit_end > 0) {
                 //player.money -= player.repayment;
                 //player.credit -= player.repayment;
                 player.money -= player.credit / 12;
@@ -257,7 +260,7 @@ public:
 
     void grantCredit(int player_id, int amount) {
         if (players[player_id].credit > 0) {
-            cout << "” Ë„ÓÍ‡ ÌÓÏÂ "<<player_id<<" ÛÊÂ ÂÒÚ¸ ÍÂ‰ËÚ\n";
+            cout << "√ì √®√£√∞√Æ√™√† √≠√Æ√¨√•√∞ " << player_id << " √≥√¶√• √•√±√≤√º √™√∞√•√§√®√≤\n";
 
         }
         else if (players[player_id].money >= amount) {
@@ -299,7 +302,7 @@ public:
         srand(time(0));
         int event_chance = rand() % 10;
         if (event_chance == 0) {
-            
+
             int event_type = rand() % 5;
 
             int inheritance = 1000 + rand() % 9000;
@@ -325,7 +328,7 @@ public:
                 }
                 break;
             case 2:
-         
+
                 players[player_id].money += inheritance;
                 std::cout << "Player " << player_id << " received an inheritance of " << inheritance << " currency." << std::endl;
                 break;
